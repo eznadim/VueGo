@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "vue-router": "^4.5.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.83.4",
+    "sass-loader": "^10.5.2"
+  }
+}
